@@ -29,6 +29,7 @@ p {
 }
 #pagina1 {
     font-size: 60px;
+    width: 100%;
 }
 
 nav {
@@ -46,10 +47,9 @@ h2 {
     color:rgb(71, 31, 4);
     margin: 0%;
     font-size: 8px;}
-   
- #pagina1 {
-        width: 100%;
-}
+
      
     /*style voor pagina 2 is hieronder*/
-    #achtergro
+    #achtergrond{
+  background-size: cover;
+    }
