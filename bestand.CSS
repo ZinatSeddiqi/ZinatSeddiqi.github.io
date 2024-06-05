@@ -13,7 +13,7 @@ h1 {
     margin: 0%;
     font-size: 40px;
 }
-p {
+h5 {
     text-align: center;
     background-color: rgb(71, 31, 4);
     color: white;
@@ -48,15 +48,33 @@ h2 {
     margin: 0%;
     font-size: 8px;}
 
-.papa {
+.tekst {
     font-size: 30px;
     margin-top: 0%;
+    margin-bottom: 0%;
+}
+.zin {
+    font-size: 30px;
+    margin-top: 5%;
+    margin-bottom: 0%;
+    }
+.zin2 {
+    font-size: 30px;
+    margin-top: 7%;
+    margin-bottom: 0%;
 }
 
 
 
      
     /*style voor pagina 2 is hieronder*/
-    #achtergrond{
-  background-size: cover
-    }
+  #earrings {
+    font-size: larger;
+    text-decoration: underline;
+  }
+    
+  #shopearrings {
+display: flex;
+justify-content: space-evenly;
+    
+  }
