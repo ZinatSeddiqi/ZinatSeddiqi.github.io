@@ -71,13 +71,46 @@ h2 {
 
      
     /*style voor pagina 2 is hieronder*/
-  #earrings {
-    font-size: larger;
-    text-decoration: underline;
+  #pagina2kleur {background-color: white;}
+
+  .shoptext {
+font-size: larger;
+text-decoration: underline;
   }
-    
-  #shopearrings {
+
+  .shopping {
 display: flex;
 justify-content: space-evenly;
-
+background-repeat: no-repeat;
+background-color: transparent;
+margin-bottom: 1%;
   }
+
+  .shopfotos {
+    width: 10%;
+    height: 20%;
+  }
+
+  .shopfotos img {
+    width: 100%;
+  }
+
+  .logosfi {
+width: 10%;
+height: 20%;
+display: flex;
+justify-content: left;
+justify-content: space-evenly;
+ }
+
+ #winkelwagenn {
+    margin-left: 40%;
+    margin-right: 0%;
+
+ }
+
+ #winkelwagenimg {
+
+    width: 35px;
+    height:30px;
+ }
